@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\bin\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Switch Case Atm Örneği\SwitchCaseAtmOrnegi\SwitchCaseAtmOrnegi\obj\Debug\netcoreapp3.1\SwitchCaseAtmOrnegi.genruntimeconfig.cache
